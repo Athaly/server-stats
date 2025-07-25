@@ -1,6 +1,6 @@
 # server-stats
 Script para analizar estadísticas de rendimiento de un servidor Linux
-
+<!-- https://roadmap.sh/projects/server-stats -->
 ## Qué muestra
 
 - Uso de CPU
@@ -15,4 +15,4 @@ Script para analizar estadísticas de rendimiento de un servidor Linux
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
-<!-- https://roadmap.sh/projects/server-stats -->
+
