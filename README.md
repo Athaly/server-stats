@@ -15,4 +15,3 @@ Script para analizar estadísticas de rendimiento de un servidor Linux
 ```bash
 chmod +x server-stats.sh
 ./server-stats.sh
-```bash
